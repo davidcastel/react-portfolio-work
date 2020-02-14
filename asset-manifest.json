@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/davidcastel/react-portfolio-work/static/css/main.b0a366ce.chunk.css",
+    "main.js": "/davidcastel/react-portfolio-work/static/js/main.7c2d9697.chunk.js",
+    "main.js.map": "/davidcastel/react-portfolio-work/static/js/main.7c2d9697.chunk.js.map",
+    "runtime-main.js": "/davidcastel/react-portfolio-work/static/js/runtime-main.4364284a.js",
+    "runtime-main.js.map": "/davidcastel/react-portfolio-work/static/js/runtime-main.4364284a.js.map",
+    "static/js/2.483e4155.chunk.js": "/davidcastel/react-portfolio-work/static/js/2.483e4155.chunk.js",
+    "static/js/2.483e4155.chunk.js.map": "/davidcastel/react-portfolio-work/static/js/2.483e4155.chunk.js.map",
+    "index.html": "/davidcastel/react-portfolio-work/index.html",
+    "precache-manifest.03653344b0619172aa50f35113779b96.js": "/davidcastel/react-portfolio-work/precache-manifest.03653344b0619172aa50f35113779b96.js",
+    "service-worker.js": "/davidcastel/react-portfolio-work/service-worker.js",
+    "static/css/main.b0a366ce.chunk.css.map": "/davidcastel/react-portfolio-work/static/css/main.b0a366ce.chunk.css.map",
+    "static/js/2.483e4155.chunk.js.LICENSE.txt": "/davidcastel/react-portfolio-work/static/js/2.483e4155.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/davidcastel/react-portfolio-work/static/media/roboto-condensed.light.cf4449c1.ttf",
+    "static/media/email_icon.png": "/davidcastel/react-portfolio-work/static/media/email_icon.fd99f8e3.png",
+    "static/media/github_icon.png": "/davidcastel/react-portfolio-work/static/media/github_icon.e2a62886.png",
+    "static/media/linkedin_icon.png": "/davidcastel/react-portfolio-work/static/media/linkedin_icon.56ab00e8.png",
+    "static/media/profile.png": "/davidcastel/react-portfolio-work/static/media/profile.9e286e8b.png",
+    "static/media/project1.png": "/davidcastel/react-portfolio-work/static/media/project1.bf56edc6.png",
+    "static/media/project2.png": "/davidcastel/react-portfolio-work/static/media/project2.f7e79c7d.png",
+    "static/media/project3.png": "/davidcastel/react-portfolio-work/static/media/project3.7bded960.png",
+    "static/media/twitter_icon.png": "/davidcastel/react-portfolio-work/static/media/twitter_icon.512536cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4364284a.js",
+    "static/js/2.483e4155.chunk.js",
+    "static/css/main.b0a366ce.chunk.css",
+    "static/js/main.7c2d9697.chunk.js"
+  ]
+}
